@@ -1,0 +1,75 @@
+Exercício 1 – GIT
+
+Nome: _
+
+Analise as perguntas e sinalize com um "X" a alternativa correta.
+
+Pergunta 1: Qual comando é usado para enviar alterações locais para o repositório remoto? 
+a) git clone 
+b) git pull 
+c) git push 
+d) git commit
+
+
+Pergunta 2: Qual comando é usado para verificar o histórico de commits em um repositório Git? 
+a) git log 
+b) git status 
+c) git branch 
+d) git diff
+
+
+Pergunta 3: O que é o Git? 
+a) Um sistema operacional 
+b) Um banco de dados 
+c) Um sistema de controle de versão 
+d) Um navegador web
+
+
+Pergunta 4: Qual comando é usado para iniciar um repositório Git? 
+a) git commit 
+b) git init 
+c) git push 
+d) git clone
+
+
+Pergunta 5: Qual comando é usado para clonar um repositório remoto no Git? 
+a) git clone 
+b) git push 
+c) git pull 
+d) git branch
+
+
+Pergunta 6: Qual comando é usado para atualizar o repositório local com as alterações do repositório remoto? 
+a) git commit 
+b) git push 
+c) git fetch 
+d) git pull
+
+
+Pergunta 7: Qual comando é usado para adicionar arquivos ao índice do Git? 
+a) git push 
+b) git add 
+c) git commit 
+d) git status
+
+
+Pergunta 8: Qual comando é usado para criar uma nova branch no Git? 
+a) git push 
+b) git branch 
+c) git commit 
+d) git checkout
+
+
+Pergunta 9: Qual comando é usado para mesclar uma branch com outra no Git? 
+a) git commit 
+b) git merge 
+c) git push 
+d) git pull
+
+
+Pergunta 10: Qual comando é usado para desfazer o último commit no Git? 
+a) git revert 
+b) git reset 
+c) git checkout 
+d) git branch
+
