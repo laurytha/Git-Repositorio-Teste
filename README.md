@@ -10,7 +10,7 @@ Após concluir a tarefa na pasta "1 comece aqui", você deverá publicar ou "sub
 
 É recomendado que na raiz do Repositorio-Teste existam apenas pastas e o arquivo readme. Os demais arquivos devem ser ocultados.
 
-Utilize a branch "branchteste" para receber os seus arquivos antes de publicá-los na branch master/main. Utilize o exemplo para commitar com mensagem: "Laurytha: <a mensagem referente ao commit>" . Substitua Laurytha pelo seu nome!
+Utilize a branch "branchteste" para receber os seus arquivos antes de publicá-los na branch master/main. Utilize o exemplo para commitar com mensagem: "NomeBranch: <a mensagem referente ao commit>" . Substitua NomeBranch pelo nome da sua Branch de trabalho!
 
 Após concluir as etapas anteriores, compartilhe o repositório criado comigo através do Discord.
 
